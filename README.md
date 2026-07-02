@@ -1,4 +1,4 @@
-## Hi there , I'm [Yogender Singh] 🙂
+## Hi there , I'm Yogender Singh 🙂
 
 I am a BCA 3rd Year Student currently in deep learning mode—focusing on software implementation, practical data pipelines, and foundational systems infrastructure. I prefer hands-on building, writing readable code, and understanding exactly how things function under the hood. Right now, I'm actively expanding my toolkit from core software and ML basics into the DevOps and cloud ecosystem.
 
