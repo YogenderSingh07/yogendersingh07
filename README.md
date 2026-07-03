@@ -1,6 +1,8 @@
 ## Hi there , I'm Yogender Singh 🙂
+<p align="center>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1500&color=ffccff&center=true&vCenter=true&width=500&lines=CS+Engineering+Student;Systems+%26+Linux+Learner;Exploring+DevOps+%26+Cloud" alt="Typing SVG" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=CS+Engineering+Student;Systems+%26+Linux+Learner;Exploring+DevOps+%26+Cloud" alt="Typing SVG" />
 
 I am a BCA 3rd Year Student currently in deep learning mode—focusing on software implementation, practical data pipelines, and foundational systems infrastructure. I prefer hands-on building, writing readable code, and understanding exactly how things function under the hood. Right now, I'm actively expanding my toolkit from core software and ML basics into the DevOps and cloud ecosystem.
 
@@ -30,7 +32,7 @@ These are the technologies I am actively preparing to learn and integrate into m
 
 ## 📊 GitHub Analytics
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogendersingh07&theme=dark" alt="GitHub Streak" width="48%" />
 </p>
 
