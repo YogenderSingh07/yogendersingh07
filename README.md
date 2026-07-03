@@ -16,24 +16,31 @@ I am a BCA 3rd Year Student currently in deep learning mode—focusing on softwa
 
 ## 🛠️ Tech Stack & Ecosystem
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,git&theme=dark" alt="DevOps Icons" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=Linux&logoColor=FCC624" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Nginx-000?style=for-the-badge&logo=Nginx&logoColor=009639" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=Git&logoColor=F05032" height="35" />
 </p>
 
 ### **Data Science & ML**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,sklearn" alt="ML Icons" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=Python&logoColor=3776AB" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Pandas-000?style=for-the-badge&logo=Pandas&logoColor=150458" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Scikit--Learn-000?style=for-the-badge&logo=scikit-learn&logoColor=F7931E" height="35" />
 </p>
-
 ---
 
 ## 🚀 Future Milestones (Next on the Roadmap)
 These are the technologies I am actively preparing to learn and integrate into my workflow next:
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="Future Stack Icons" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker&logoColor=2496ED" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Kubernetes-000?style=for-the-badge&logo=Kubernetes&logoColor=326CE5" height="35" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-AWS-000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" height="35" />
 </p>
+
 ---
+
 ## 🌐 My Portfolio
 
 *Explore my live deployment projects, detailed write-ups, and full digital canvas:*
