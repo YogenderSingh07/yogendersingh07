@@ -17,13 +17,18 @@ I am a BCA 3rd Year Student currently in deep learning mode—focusing on softwa
 ## 🛠️ Tech Stack & Ecosystem
 
 ### **DevOps & Infrastructure**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,nginx,apache,git&theme=dark" alt="DevOps Icons" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" height="50" alt="Nginx" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50" height="50" alt="Apache" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
 </p>
 
 ### **Data Science & ML**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,sklearn" alt="ML Icons" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sklearn/sklearn-original.svg" width="50" height="50" alt="Scikit-Learn" />
 </p>
 
 ---
@@ -31,10 +36,11 @@ I am a BCA 3rd Year Student currently in deep learning mode—focusing on softwa
 ## 🚀 Future Milestones (Next on the Roadmap)
 These are the technologies I am actively preparing to learn and integrate into my workflow next:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws" alt="Future Stack Icons" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="50" height="50" alt="AWS" />
 </p>
-
 ---
 ## 🌐 My Portfolio
 
