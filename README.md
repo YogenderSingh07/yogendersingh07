@@ -1,6 +1,6 @@
 ## Hi there , I'm Yogender Singh 🙂
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=39D353&width=500&lines=CS+Engineering+Student;Linux+%26+SysAdmin+Learner;ML+%26+NLP+Basics;Future+DevOps+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1500&color=FFFFFF&center=true&vCenter=true&width=500&lines=CS+Engineering+Student;Systems+%26+Linux+Learner;Exploring+DevOps+%26+Cloud" alt="Typing SVG" />
 
 I am a BCA 3rd Year Student currently in deep learning mode—focusing on software implementation, practical data pipelines, and foundational systems infrastructure. I prefer hands-on building, writing readable code, and understanding exactly how things function under the hood. Right now, I'm actively expanding my toolkit from core software and ML basics into the DevOps and cloud ecosystem.
 
