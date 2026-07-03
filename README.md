@@ -1,6 +1,12 @@
 ## Hi there , I'm Yogender Singh 🙂
-<p align="center>
+<!-- <p align="center>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=26&pause=1500&color=ffccff&center=true&vCenter=true&width=500&lines=CS+Engineering+Student;Systems+%26+Linux+Learner;Exploring+DevOps+%26+Cloud" alt="Typing SVG" />
+</p> -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=4000&pause=1000&color=C778DD&center=true&vCenter=true&width=1000&lines=CS+Engineering+Student;Systems+%26+Linux+Learner;Exploring+DevOps+%26+Cloud"
+    alt="Typing SVG"
+  />
 </p>
 
 
