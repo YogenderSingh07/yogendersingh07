@@ -51,7 +51,7 @@ These are the technologies I am actively preparing to learn and integrate into m
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogendersingh07&theme=dark" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogendersingh07&theme=dark&cache=0" alt="GitHub Streak" width="48%" />
 </p>
 
 ---
